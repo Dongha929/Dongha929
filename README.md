@@ -7,7 +7,7 @@ What I want to know:
 * mark down
 * advice from beta
    * Docker, Git, WSL, etc
-* Boj or Codeforce ranking up
+* boj or codeforce ranking up
 * Kaggle contribution
 * book: python backend
 * book: python algorithm test
