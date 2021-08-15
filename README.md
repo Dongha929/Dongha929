@@ -13,7 +13,7 @@
 * advice from beta
    * Docker, Git, WSL, etc
 * boj or codeforce ranking up
-* Kaggle contribution
+* Kaggle competition
 * book: python backend
 * book: python algorithm test
 * book: python machine learning
