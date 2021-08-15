@@ -1,14 +1,14 @@
-### Dongha Lee   
+## Dongha Lee   
 -------------
 
-POSTECH IME 19     
+#### POSTECH IME 19     
 > In IME, data science and automation (smart factory, smart farm, smart city)   
    
-ROKA 2021.02.01 ~ 2022.07.31    
+#### ROKA 2021.02.01 ~ 2022.07.31    
 
 -------------
 
-What I want to know:   
+#### Bucket list  
 * mark down
 * advice from beta
    * Docker, Git, WSL, etc
