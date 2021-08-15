@@ -4,7 +4,7 @@ POSTECH IME 19
 ROKA 2021.02.01 ~ 2022.07.31    
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={max929})](https://solved.ac/{max929})
 
 
 What I want to know:   
