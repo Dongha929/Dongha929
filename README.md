@@ -2,7 +2,11 @@ POSTECH IME 19
 > In IME, data science and automation (smart factory, smart farm, smart city)   
    
 ROKA 2021.02.01 ~ 2022.07.31    
-   
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+
 What I want to know:   
 * mark down
 * advice from beta
