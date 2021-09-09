@@ -16,8 +16,5 @@
 * Kaggle competition
 * book: python backend
 * book: python algorithm test
-* book: python machine learning
-* book: JS, CSS, HTML
-* toy project: health care web/app (providing information, saving Inbody, recording rutine)
-* toy project: automation for ROKA (Human resources affairs, etc)
-* toy project: sheet music maker (code checking, composition of instruments, seperation of sound)
+* book: machine learning
+* book: database
