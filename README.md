@@ -2,19 +2,20 @@
 -------------
 
 #### POSTECH IME 19     
-> In IME, data science and automation (smart factory, smart farm, smart city)   
+> In IME, data science and automation (smart factory, quant)   
    
 #### ROKA 2021.02.01 ~ 2022.07.31    
 
 -------------
 
 #### Bucket list  
-* mark down
-* advice from beta
+* studing computer science
+   * database, network, architecture, etc 
+* studing popular topic
    * Docker, Git, WSL, etc
 * boj or codeforce ranking up
-* Kaggle competition
+* Kaggle competition!
 * book: python backend
-* book: python algorithm test
 * book: machine learning
 * book: database
+* book: python algorithm test (done!)
