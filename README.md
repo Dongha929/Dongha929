@@ -13,7 +13,7 @@
    * database, network, architecture, etc 
 * studing popular topic
    * Docker, Git, WSL, etc
-* boj or codeforce ranking up
+* Boj or Codeforce ranking up
 * Kaggle competition!
 * book: python backend
 * book: machine learning
